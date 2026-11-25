@@ -2,9 +2,9 @@
 
 ## How to start
 
-Make sure you have java 8 installed
+Make sure you have Java 25 installed
 
-Build the project with `./mvnw package`
+Build the project with `./mvnw package` (or `mvnw.cmd package` on Windows)
 
 Run with `java -jar ./target/docker-example-1.1.3.jar`
 
